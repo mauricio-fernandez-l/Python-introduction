@@ -29,9 +29,11 @@ print(a[2])
 # %% Dictionary
 
 a = {
-     "Mauricio": "Chile", 
-     "Hanna": "Poland", 
-     "Antonia": "Germany"
-     }
+    "Mauricio": "Chile",
+    "Hanna": "Poland",
+    "Antonia": "Germany",
+    "Greta": "Germany",
+    "Isabella": "Germany",
+}
 print(type(a), a)
 print(a["Hanna"])
